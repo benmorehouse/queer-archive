@@ -1,0 +1,72 @@
+{
+  "company": {
+    "name": "The Open Online Queer Archive",
+    "logo": "/assets/images/logo.png"
+  },
+  "navigation": [
+    {
+      "name": "Welcome",
+      "href": "welcome"
+    },
+    {
+      "name": "About",
+      "href": "about"
+    },
+
+    {
+      "name": "Records",
+      "href": "records"
+    }
+  ],
+  "mainHero": {
+    "title": "An Online Queer Archive.",
+    "subtitle": "By the people. For the people. ",
+    "description": "Archives have long since been locked away from access to a majority of the public, making it harder for people to gain access to important pieces of LGBTQ+ History as well as present day events. Here, we have built an online platform where queer art, science, philosophy, and other important artifacts can survive. We leave it to you, the community, to deem what should be in this archive.",
+    "img": "/assets/images/homepage.jpg",
+    "primaryAction": {
+      "text": "Submit something",
+      "href": "#contribute"
+    },
+    "secondaryAction": {
+      "text": "Email us",
+      "href": "mailto:bmorehou@usc.edu?subject=Queer Archive Questionaire!"
+    }
+  },
+  "callToAction": {
+    "text": "Get started",
+    "href": "#"
+  },
+  "aboutUs": {
+    "title": "About Us",
+    "items": [
+      {
+        "title": "Find",
+        "description": "Up to now, most archives are hidden by top-tier Universities and Libraries. The online archive websites all seem out of date and don't offer the ability for the everyday person to be able to contribute to it. Here, you can encounter anything relating to the development, history, and contemporary identity of the queer community both past and present.",
+        "artist": "Anna Pomianowska-Bąk",
+        "img": "/assets/images/heart.jpeg"
+      },
+      {
+        "title": "Submit",
+        "description": "Got something that you think is worth sharing to this community? As mentioned, this is a community project built to give voice to those who have anything that they feel embodies this movement, and would want it to be saved for years to come. Submit what you please, and be sure to include the link where people can find the piece as well as the author.",
+        "artist": "TSA Youth Group",
+        "img": "/assets/images/giving_hands.jpeg"
+      },
+      {
+        "title": "Preserve",
+        "description": "Much of the modern-day Queer Space is being dictated and housed online through online newsletters, social media, and remote debates. At the same time, this means that these documents are being hosted in the hands of companies that have directly benefited from the Patriarchical and Capitalist structure. This is a project aimed at open-sourcing all of this for generations to come.",
+        "artist": "Anwesh Sahoo",
+        "img": "/assets/images/queer-artist.jpeg"
+      }
+    ]
+  },
+  "records": {
+    "title": "The Archive",
+    "subtitle": "All the best technologies out there!",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "items": []
+  },
+  "submit": {
+    "title": "Contribute to the Archive!",
+    "description": "Below you can openly contribute to this mission by linking in some content! Please fill out the form thoroughly and thoughtfully, linking the piece you are sharing as a functional URL."
+  }
+}
