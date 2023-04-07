@@ -1,31 +1,29 @@
 # A Queer Online Archive, written in React and NextJS 
 
-## <a href="https://thequeerarchive.online"> The Live Website </a>
 
-### Description
+### What is this?  
+
+Archives are very important in LGBTQ+ Studies (my major at USC). We use them on a daily basis to understand past and present and how society changes over time and how this impacts the queer community. 
+A lot of dialogue today occurs on social medias, but we don't have an easy way for this to be harnessed and held for long term use. 
+
+This website serves as a place for anyone to submit anything that they wish to have stored long term in the archive. 
+
+To learn more, see my full write up [here](https://wool-pot-615.notion.site/The-Free-Online-Queer-Archive-a3149b47b469424886854ae1fe45ea46h)!
+
+## <a href="https://thequeerarchive.online"> The Live Website </a>
 
 ### Features
 
-- 📱  Responsive design
-- 🔥 [Next.js](https://nextjs.org) for Static Site Generator
+- [Next.js](https://nextjs.org) for Static Site Generator
 
-- 🎨 Integrate with [Tailwind CSS](https://tailwindcss.com) (w/ JIT mode)
+- ReactJS components for plugability and community familiarity
 
-- 💅 PostCSS for processing Tailwind CSS and integrated to `styled-jsx`
+- Integrated with [Tailwind CSS](https://tailwindcss.com) (w/ JIT mode)
 
-- 🎉 Type checking [TypeScript](https://www.typescriptlang.org)
+- PostCSS for processing Tailwind CSS and integrated to `styled-jsx`
 
-- 🗂 VSCode configuration: Debug, Settings, Tasks and extension for PostCSS, ESLint, Prettier, TypeScript
+- Type checking [TypeScript](https://www.typescriptlang.org)
 
-- 🤖 SEO metadata, JSON-LD and Open Graph tags with Next SEO
+- On Merge, will deploy said application using Vercel 
 
-- 🖱️ One click deployment with Vercel or Netlify (or manual deployment to any hosting services)
-
-Built-in feature from Next.js:
-
-- ☕ Minify HTML & CSS
-- 💨 Live reload
-- ✅ Cache busting
-
-
-### Source For Templated code base: https://github.com/issaafalkattan/react-landing-page-template-2021
+- Bootstrapped backend data source & basic dns resolution using DynamoDB and Route53 in AWS. 
